@@ -11,7 +11,7 @@
 - 😃 Full Stack Perfil
 
 
-[![Hotmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=hotmail&logoColor=blue)](mailto:fsalva157@hotmail.com)
+[![Hotmail](https://img.shields.io/badge/hotmail-blue?logo=microsoft)](mailto:fsalva157@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/fernando-javier-salva-94aa4926)
 
 
