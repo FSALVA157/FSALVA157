@@ -1,5 +1,5 @@
 
-[![HEADER](https://github.com/FSALVA157/FSALVA157/blob/main/images/text.gif)]
+<centero>[![HEADER](https://github.com/FSALVA157/FSALVA157/blob/main/images/text.gif)]</center>
 [![Header](https://github.com/FSALVA157/FSALVA157/blob/main/images/cubo_fer.gif)]
 
 
