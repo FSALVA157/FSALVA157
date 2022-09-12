@@ -24,6 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![Dart](https://img.shields.io/badge/-DART-blue?style=flat&logo=dart)
 
 ##### Some of the technologies I have worked with
 
