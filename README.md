@@ -33,6 +33,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-222222?style=flat&logo=nestjs&logoColor=red)
+![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&logo=angular&logoColor=red)
+![Flutter](https://img.shields.io/badge/-Flutter-222222?style=flat&logo=flutter&logoColor=blue)
 
 
 
