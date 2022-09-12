@@ -18,7 +18,7 @@
 
 ##### Languages I use
 
-![C#](https://img.shields.io/badge/-C#-000000?style=flat&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/-C#-000000?style=flat&logo=c sharp)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -35,7 +35,7 @@
 ![Nest.js](https://img.shields.io/badge/-Nest.js-222222?style=flat&logo=nestjs&logoColor=red)
 ![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&logo=angular&logoColor=red)
 ![Flutter](https://img.shields.io/badge/-Flutter-222222?style=flat&logo=flutter&logoColor=blue)
-![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker&logoColor=blue)
 
 
 
