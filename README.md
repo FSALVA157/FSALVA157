@@ -32,7 +32,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![Nest.js](https://img.shields.io/badge/-Nest.js-red?style=flat&logo=nestjs&logoColor=white)
+![Nest.js](https://img.shields.io/badge/-Nest.js-222222?style=flat&logo=nestjs&logoColor=red)
 
 
 
