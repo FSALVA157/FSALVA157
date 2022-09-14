@@ -12,7 +12,7 @@
 
 
 [![Hotmail](https://img.shields.io/badge/hotmail-blue?style=for-the-badge&logo=microsoft)](mailto:fsalva157@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-violet?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/fernando-javier-salva-94aa4926)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-violet?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-javier-salva-94aa4926)
 [![Twitter](https://img.shields.io/badge/-TWITTER-black?style=for-the-badge&logo=twitter&logoColor=white)](@FSALVA157)
 
 
